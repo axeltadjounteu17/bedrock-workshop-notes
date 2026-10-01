@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+.aws/
+credentials
+config.json
+node_modules/
+__pycache__/
+.venv/
+cdk.out/
